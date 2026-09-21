@@ -8,7 +8,7 @@ gem "pg", "~> 1.1"
 gem "puma", ">= 5.0"
 
 # Bearer tokens are the only API authentication mechanism.
-gem "jwt", "~> 3.1"
+gem "jwt", "~> 3.3"
 
 # Use Active Model has_secure_password [https://guides.rubyonrails.org/active_model_basics.html#securepassword]
 # gem "bcrypt", "~> 3.1.7"
